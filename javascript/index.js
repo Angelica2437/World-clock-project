@@ -38,6 +38,7 @@ function updateCity(event) {
   )}</small>
   </div>
   </div>
+  <a href="index.html">Homepage</a>
 `;
 }
 updateTime();
